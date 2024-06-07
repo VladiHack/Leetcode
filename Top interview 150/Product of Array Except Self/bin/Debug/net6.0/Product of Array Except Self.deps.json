@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Product of Array Except Self/1.0.0": {
+        "runtime": {
+          "Product of Array Except Self.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Product of Array Except Self/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
