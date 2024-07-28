@@ -1,0 +1,15 @@
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\bin\Debug\net8.0\Roman to Integer.exe
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\bin\Debug\net8.0\Roman to Integer.deps.json
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\bin\Debug\net8.0\Roman to Integer.runtimeconfig.json
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\bin\Debug\net8.0\Roman to Integer.dll
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\bin\Debug\net8.0\Roman to Integer.pdb
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfoInputs.cache
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.AssemblyInfo.cs
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.sourcelink.json
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.dll
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\refint\Roman to Integer.dll
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.pdb
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\Roman to Integer.genruntimeconfig.cache
+C:\Users\Vladimir Boychev\Desktop\Leetcode\Leetcode\Top interview 150\Roman to Integer\obj\Debug\net8.0\ref\Roman to Integer.dll
